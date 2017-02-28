@@ -3,7 +3,7 @@ module.exports = {
 
   afterInstall: function() {
     return this.addBowerPackagesToProject([
-      {name: 'quagga', target: '0.11.0'}
+      {name: 'quagga', target: '0.11.6'}
     ]); // this is a promise BTW...
   }
 };
