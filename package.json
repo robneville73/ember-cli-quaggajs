@@ -1,17 +1,17 @@
 {
   "name": "ember-cli-quaggajs",
-  "version": "0.0.5",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.6",
+  "description": "ember addon to include quaggaJS lib",
   "keywords": [
     "ember-addon"
   ],
   "license": "MIT",
-  "author": "",
+  "author": "Rob Neville",
   "directories": {
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "",
+  "repository": "https://github.com/robneville73/ember-cli-quaggajs",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
